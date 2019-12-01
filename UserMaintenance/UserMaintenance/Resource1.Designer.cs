@@ -70,7 +70,7 @@ namespace UserMaintenance {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Mentés.
+        ///   Looks up a localized string similar to Fáljba írás.
         /// </summary>
         internal static string Save {
             get {

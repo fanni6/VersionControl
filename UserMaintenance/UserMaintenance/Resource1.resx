@@ -121,6 +121,6 @@
     <value>Teljes név</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Mentés</value>
+    <value>Fáljba írás</value>
   </data>
 </root>
